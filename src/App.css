@@ -1,0 +1,11 @@
+body {
+  font-size: xx-large;
+  background-color: white;
+  color: black;
+}
+
+.form {
+  position: relative;
+  text-align: center;
+  background-color: teal;
+}
