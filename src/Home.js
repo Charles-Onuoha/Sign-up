@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 
- class Thoughts extends Component{
+ class Form extends Component{
     render() {
         return (
             <div className= "form">
@@ -13,4 +13,4 @@ import './App.css';
         )
     }
 };
-export default Thoughts; 
+export default Form; 
